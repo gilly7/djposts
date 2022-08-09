@@ -34,6 +34,8 @@ Run the server
 python manage.py runserver
 ```
 
+Inspired by: [citzix blog](https://citizix.com/getting-started-with-django-a-simple-crud-application/)
+
 
 
 
